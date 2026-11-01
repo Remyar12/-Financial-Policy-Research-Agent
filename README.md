@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ Financial Policy Research Agent (LangGraph)
 
 An agentic, multi-node **Financial Policy Research Agent** built using **LangGraph**, **DuckDuckGo**, **Trafilatura**, and **Ollama (`qwen2.5:7b`)** / **Google Gemini** / **Groq** / **OpenAI**.
@@ -131,3 +132,6 @@ python main.py
 - *"What are the IRDAI regulations regarding health insurance claim settlement turnaround time?"*
 - *"What are the PFRDA guidelines on National Pension System (NPS) partial withdrawal rules?"*
 - *"What is the minimum entry age and maximum age for NPS under PFRDA?"*
+=======
+# -Financial-Policy-Research-Agent
+>>>>>>> b86e1713336efbae7da4859306fe3ddbd1b638a3
